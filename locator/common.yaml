@@ -1,0 +1,12 @@
+Login:
+  type:name
+  value:username
+Password:
+  type:name
+  value:password
+VerifyCode:
+  type:name
+  value:verify
+LoginButton:
+  type:className
+  value:login-btn

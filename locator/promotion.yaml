@@ -1,0 +1,36 @@
+BusinessManage:
+  type:xpath
+  value:"/html/body/div[2]/div[2]/h3[6]"
+PromotionManage:
+  type:xpath
+  value:"/html/body/div[2]/div[2]/ul[6]/li[1]/a"
+AddBtn:
+  type:id
+  value:add_operation
+ProName:
+  type:id
+  value:name
+ShortCopy:
+  type:id
+  value:short_copy
+BeginTimeInput:
+  type:id
+  value:begin_time
+EndTimeInput:
+  type:id
+  value:end_time
+OldCustomer:
+  type:xpath
+  value:"/html/body/div[4]/div[2]/table[1]/tbody/tr[8]/td[2]/input[1]"
+NewCustomer:
+  type:xpath
+  value:"/html/body/div[4]/div[2]/table[1]/tbody/tr[8]/td[2]/input[2]"
+FullValue:
+  type:id
+  value:full_value
+SubtractValue:
+  type:id
+  value:subtract_value
+AddSubmit:
+  type:id
+  value:add_submit

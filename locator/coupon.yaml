@@ -1,0 +1,33 @@
+BusinessManage:
+  type:xpath
+  value:"/html/body/div[2]/div[2]/h3[6]"
+CouponManage:
+  type:xpath
+  value:"/html/body/div[2]/div[2]/ul[6]/li[2]/a"
+AddBtn:
+  type:id
+  value:add_coupon
+CouName:
+  type:xpath
+  value:"/html/body/div[4]/div[2]/table/tbody/tr[1]/td[2]/input"
+ShortName:
+  type:id
+  value:short_name
+HeadName:
+  type:xpath
+  value:"/html/body/div[4]/div[2]/table/tbody/tr[5]/td[2]/input"
+CouDesc:
+  type:id
+  value:desc
+FullValue:
+  type:id
+  value:full_value
+SubtractValue:
+  type:id
+  value:subtract_value
+GoodsSelect:
+  type:id
+  value:scope
+SubmitBtn:
+  type:id
+  value:add_submit

@@ -1,0 +1,109 @@
+AddBtn:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/div[2]/div/a[1]"
+ProductNo:
+  type:id
+  value:product_no
+ProductOriginalNo:
+  type:id
+  value:product_original_no
+Barcode:
+  type:id
+  value:barcode
+SkuName:
+  type:id
+  value:sku_name
+ShortName:
+  type:id
+  value:short_name
+BrandSelect:
+  type:id
+  value:brand_id
+ProductAddress:
+  type:id
+  value:product_place
+Weight:
+  type:id
+  value:weight
+Standard:
+  type:id
+  value:standard
+ChooseCate:
+  type:id
+  value:chooseCate
+SearchCate:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/div[3]/div/div/div[2]/form/input"
+SearchBtn:
+  type:id
+  value:btnSearch
+SelectCate:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/div[3]/div/div/div[2]/form/div[2]/div[2]/ol/li/ul"
+SelectCateConfirm:
+  type:id
+  value:selectCateConfirm
+Category:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/div[2]/form/table/tbody[1]/tr[4]/td[4]/div/p/input"
+GoodsColour:
+  type:id
+  value:color
+Sex:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/div[2]/form/table/tbody[1]/tr[5]/td[4]/div/label[4]/i"
+IsBuy:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/div[2]/form/table/tbody[1]/tr[5]/td[6]/div/label[2]/i"
+SaleQty:
+  type:id
+  value:sale_qty
+HighestQty:
+  type:id
+  value:highest_qty
+SalePrice:	
+  type:id
+  value:sale_price
+OriginalPrice:
+  type:id
+  value:original_price
+SettlementType:
+  type:id
+  value:settlement_type
+SettlementValue:
+  type:id
+  value:settlement_value
+Detail:
+  type:id
+  value:goods_detail
+ImgInput1:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/div[2]/form/table/tbody[2]/tr/td/div/ul/li/div/input"
+ImgInput2:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/div[2]/form/table/tbody[2]/tr/td/div/ul/li[2]/div/input"
+ImgInput2:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/div[2]/form/table/tbody[3]/tr/td/div/ul/li/div/input"
+AddSubmit:
+  type:id
+  value:goods_submit
+EditBtn:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/section/div/table/tbody/tr[1]/td[15]/p[1]/a[1]"
+RecoverProductNo:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/section/div/table/tbody/tr[1]/td[3]"
+RecoverName:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/section/div/table/tbody/tr[1]/td[5]"
+RecoverOriPrice:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/section/div/table/tbody/tr[1]/td[9]"
+EditSelect:
+  type:id
+  value:goods_status
+EditSearchBtn:
+  type:id
+  value:search_submit
+

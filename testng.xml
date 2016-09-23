@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" preserve-order="true" parallel="classes"
+	thread-count="3">
+	<test name="Test1" preserve-order="true" parallel="methods"
+		thread-count="1">
+
+		<classes>
+<!-- 
+              <class name="TestCases.AddAttribute" />
+            <class name="TestCases.AddBrand" />
+            <class name="TestCases.AddCoupon" />
+            <class name="TestCases.Addgoods" />
+            <class name="TestCases.AddLogistics" />
+            <class name="TestCases.AddMerchent" />
+            <class name="TestCases.AddPromotion" />
+            <class name="TestCases.AddWarehouse" />
+            <class name="TestCases.BatchImportInventory" />
+            <class name="TestCases.EditAttribute" />
+            <class name="TestCases.EditBrand" />
+            <class name="TestCases.EditGoods" />
+            <class name="TestCases.EditLogistics" />
+            <class name="TestCases.EditMerchent" />
+            <class name="TestCases.EditWarehouse" />
+            <class name="TestCases.ManualChangeInventory" /> -->
+            <class name="TestCases.BiyoApp" />
+           
+  
+		</classes>
+	</test> 
+	  <listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+	<usedefaultlisteners name="false" />
+</suite>  <!-- Suite -->

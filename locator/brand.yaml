@@ -1,0 +1,48 @@
+CommonManage:
+  type:xpath
+  value:"/html/body/div[2]/div[2]/h3[1]"
+BrandManage:
+  type:xpath
+  value:"/html/body/div[2]/div[2]/ul[1]/li[3]/a"
+AddBrandBtn:
+  type:id
+  value:add_brand
+BrandNameCN:
+  type:xpath
+  value:"/html/body/div[4]/div[2]/table/tbody/tr[1]/td[2]/input[2]"
+BrandNameEN:
+  type:xpath
+  value:"/html/body/div[4]/div[2]/table/tbody/tr[2]/td[2]/input"
+AreaSelect:
+  type:id
+  value:area_id
+BrandWeb:
+  type:id
+  value:brand_website
+AfterPhone:
+  type:id
+  value:after_phone
+BrandDesc:
+  type:id
+  value:brand_desc
+BrandDescPic:
+  type:xpath
+  value:"/html/body/div[4]/div[2]/table/tbody/tr[7]/td[2]/div/div"
+BrandDescPicInput:
+  type:xpath
+  value:"/html/body/div[4]/div[2]/table/tbody/tr[7]/td[2]/div/input[2]"
+AddSubmit:
+  type:xpath
+  value:"/html/body/div[4]/div[2]/div/button"
+EditBtn:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/block/div[4]/table/tbody/tr[1]/td[9]/a"
+CNValue:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/block/div[4]/table/tbody/tr[1]/td[2]"
+ENValue:
+  type:xpath
+  value:"/html/body/div[3]/div[2]/block/div[4]/table/tbody/tr[1]/td[3]"
+DeletePicBtn:
+  type:xpath
+  value:"/html/body/div[4]/div[2]/table/tbody/tr[7]/td[2]/div/span/i"

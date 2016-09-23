@@ -1,0 +1,27 @@
+LoginFrame:
+  type:id
+  value:login_frame
+LoginNode:
+  type:id
+  value:switcher_plogin
+UserName:
+  type:id
+  value:u
+Password:
+  type:id
+  value:p
+Button:
+  type:id
+  value:login_button
+Login:
+  type:xpath
+  value:".//*[@id="login-page"]/div/div[2]/form/ul/li[1]/input"
+Passwordd:
+  type:xpath
+  value:".//*[@id="login-page"]/div/div[2]/form/ul/li[2]/input"
+VerifyCode:
+  type:xpath
+  value:".//*[@id="login-page"]/div/div[2]/form/ul/li[3]/input"
+LoginButton:
+  type:xpath
+  value:".//*[@id="login-page"]/div/div[2]/form/ul/li[4]/button"

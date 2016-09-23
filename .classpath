@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/java-client-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/selenium-java-2.45.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/selenium-server-standalone-2.48.2.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/commons-lang3-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/cssparser-0.9.11.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/htmlunit-2.14.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/htmlunit-core-js-2.14.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/httpclient-4.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/httpcore-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/httpmime-4.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/java-client-2.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/jetty-http-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/jetty-io-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/jetty-util-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/jetty-websocket-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/json-20080701.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/nekohtml-1.9.19.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/nekohtml-1.9.20.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/phantomjsdriver-1.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/sauce_java_common-1.0.18.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/sauce_junit-1.0.18.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/saucerest-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/selenium-api-2.41.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/selenium-chrome-driver-2.41.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/selenium-firefox-driver-2.41.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/selenium-htmlunit-driver-2.41.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/selenium-ie-driver-2.41.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/selenium-java-2.42.2.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/selenium-remote-driver-2.42.2.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/selenium-safari-driver-2.41.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/selenium-support-2.41.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/webbit-0.4.14.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/libs/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/selenium-java-2.42.2.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/java-client-3.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Appium/jar/java-client-4.1.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
